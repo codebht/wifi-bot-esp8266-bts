@@ -1,6 +1,3 @@
-<img style="border-radius:20px;"
-    src="https://user-images.githubusercontent.com/98148986/215330952-fe20a968-042e-4fcf-b7df-bcbfcf8cc1d3.png">
-
 <br>
 
 <h1 align="center">Code for esp8266 to build a Wifi controlled car using BTS7960B Motor Driver</h1>
@@ -24,11 +21,11 @@
 
 SSID:
 
-<pre>RC_PowerCAR</pre>
+<pre>RC_CAR</pre>
 
 Password:
 
-<pre>connect_me</pre>
+<pre>esp8266_me</pre>
 
 <br>
 
